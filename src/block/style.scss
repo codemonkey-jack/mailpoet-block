@@ -1,0 +1,28 @@
+/**
+ * #.# Styles
+ *
+ * CSS for both Frontend+Backend.
+ */
+
+.wp-block-cgb-block-mailpoetblock {
+  background: $red;
+  border: 0.2rem solid $black;
+  color: $black;
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 2rem;
+}
+
+.jbmailpoet-input {
+  margin-bottom: 20px;
+}
+
+.jbmailpoet-success {
+  color: #468847;
+  margin-bottom: 20px;
+}
+
+.jbmailpoet-error {
+  color: red;
+  margin-bottom: 20px;
+}
